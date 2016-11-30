@@ -7,3 +7,5 @@ def CountDNA(dna):
     print(counter)
 
 CountDNA("ATGCC")
+dna = input("provide your DNA sequence\n")
+CountDNA(dna)
