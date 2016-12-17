@@ -1,4 +1,5 @@
 #Counting DNA Nucleotides
+#http://rosalind.info/problems/dna/
 
 def CountDNA(dna):
     counter={'A':0, 'T':0, 'G':0, 'C':0}
